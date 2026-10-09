@@ -1,0 +1,88 @@
+[
+  {
+    "path": "assets/models/bookcaseOpen.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/books.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/chair.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/tableCross.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/plantSmall1.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/gate-door.glb",
+    "source": "https://kenney.nl/assets/modular-dungeon-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/models/Textures/colormap.png",
+    "source": "https://kenney.nl/assets/modular-dungeon-kit",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/audio/infuse.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/audio/break.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/audio/bell.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/audio/click.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/audio/step.ogg",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/particles/light_01.png",
+    "source": "https://kenney.nl/assets/particle-pack",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/particles/magic_01.png",
+    "source": "https://kenney.nl/assets/particle-pack",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/particles/smoke_01.png",
+    "source": "https://kenney.nl/assets/particle-pack",
+    "license": "CC0-1.0"
+  },
+  {
+    "path": "assets/fonts/NotoSansSC.ttf",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "assets/fonts/OFL.txt"
+  },
+  {
+    "path": "assets/audio/ambience.wav",
+    "source": "tools/prepare_assets.py",
+    "license": "Original project asset"
+  }
+]

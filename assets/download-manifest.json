@@ -1,0 +1,38 @@
+[
+  {
+    "path": "assets/downloads/impact-sounds.zip",
+    "source": "https://kenney.nl/assets/impact-sounds",
+    "license": "CC0-1.0",
+    "bytes": 800850
+  },
+  {
+    "path": "assets/downloads/particle-pack.zip",
+    "source": "https://kenney.nl/assets/particle-pack",
+    "license": "CC0-1.0",
+    "bytes": 15001764
+  },
+  {
+    "path": "assets/downloads/modular-dungeon-kit.zip",
+    "source": "https://kenney.nl/assets/modular-dungeon-kit",
+    "license": "CC0-1.0",
+    "bytes": 6886434
+  },
+  {
+    "path": "assets/downloads/furniture-kit.zip",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "bytes": 5130729
+  },
+  {
+    "path": "assets/fonts/NotoSansSC.ttf",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "license": "SIL Open Font License 1.1",
+    "bytes": 17772300
+  },
+  {
+    "path": "assets/fonts/OFL.txt",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "license": "SIL Open Font License 1.1",
+    "bytes": 4388
+  }
+]

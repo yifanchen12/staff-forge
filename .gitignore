@@ -1,0 +1,35 @@
+.godot/
+tools/godot/
+tools/*.zip
+tools/*.tpz
+tools/templates/
+build/
+artifacts/
+delivery/
+*.tmp
+
+# Download caches and editor-local folders
+assets/downloads/
+assets/kenney/
+export_templates/
+feature_profiles/
+script_templates/
+text_editor_themes/
+__pycache__/
+*.pyc
+
+# Credentials, local settings and player saves
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+export_credentials.cfg
+*.pem
+*.key
+*.p12
+*.pfx
+run.json
+run.backup.json
+run.corrupt.*.json
+settings.json

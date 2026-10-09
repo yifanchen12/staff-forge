@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "days": 5,
+  "daily_materials": 3,
+  "quotas": [200, 400, 700, 1100, 1700],
+  "base_value": 80,
+  "value_multiplier": 1.5,
+  "max_level": 12,
+  "break_per_level": 0.035,
+  "charge_threshold": 6,
+  "resonance_seconds": 3.0,
+  "infusion_cooldown": 0.65,
+  "remaining_weights": {"success": 0.65, "great": 0.10, "hold": 0.15, "damage": 0.10},
+  "length_min": 0.8,
+  "length_max": 1.6,
+  "thickness_min": 0.02,
+  "thickness_max": 0.05,
+  "materials": [
+    {"name": "灰烬木", "stability": 1.0, "damage": 1.08, "cooldown": 1.0, "color": "#725641", "description": "均衡 · 威力略高"},
+    {"name": "铁心木", "stability": 1.35, "damage": 1.0, "cooldown": 1.16, "color": "#473d38", "description": "稳固 · 灌注风险更低"},
+    {"name": "月柳木", "stability": 0.88, "damage": 0.92, "cooldown": 0.78, "color": "#969488", "description": "轻盈 · 施法更快"}
+  ],
+  "heads": [
+    {"name": "聚焦之环", "mode": "focus", "description": "集中释放 · 单靶威力"},
+    {"name": "三棱冠", "mode": "scatter", "description": "三向散射 · 覆盖多靶"},
+    {"name": "封印笼", "mode": "area", "description": "区域释放 · 扩大范围"}
+  ],
+  "elements": [
+    {"name": "烬火晶核", "id": "fire", "color": "#ff9d5c", "description": "爆炸 + 持续灼烧"},
+    {"name": "霜蓝晶核", "id": "ice", "color": "#78d9fa", "description": "冻结轨迹 + 靶标减速"},
+    {"name": "紫电晶核", "id": "lightning", "color": "#b7a0ff", "description": "电弧 + 邻近靶连锁"}
+  ],
+  "runes": [
+    {"name": "迅捷符文", "description": "施法间隔 -22% · 风险 +10%"},
+    {"name": "稳固符文", "description": "灌注风险 -25% · 施法间隔 +8%"}
+  ],
+  "relics": [
+    {"id": "ward", "name": "不灭余烬", "price": 180, "description": "破碎概率 ×0.8", "icon": "◇"},
+    {"id": "value", "name": "贪金之眼", "price": 260, "description": "所有法杖价值 ×1.25", "icon": "◉"},
+    {"id": "speed", "name": "脉动沙漏", "price": 200, "description": "灌注间隔 ×0.75", "icon": "⌛"},
+    {"id": "charge", "name": "共鸣指环", "price": 320, "description": "共鸣充能从6格降至4格", "icon": "◎"},
+    {"id": "duration", "name": "回声棱镜", "price": 240, "description": "共鸣持续时间 +1.5秒", "icon": "△"},
+    {"id": "shield", "name": "晶核护罩", "price": 300, "description": "每根法杖首次破碎改为降级", "icon": "⬡"}
+  ]
+}
