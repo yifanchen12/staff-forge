@@ -1,0 +1,10 @@
+* text=auto
+*.gd text eol=lf
+*.gdshader text eol=lf
+*.tscn text eol=lf
+*.godot text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+assets/licenses/* -text
+assets/fonts/OFL.txt -text
+docs/GODOT_LICENSES.txt -text
