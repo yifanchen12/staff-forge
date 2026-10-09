@@ -42,7 +42,7 @@ if not (windows / "StaffForge.exe").exists() or not (windows / "StaffForge.pck")
     raise RuntimeError("Build Windows release before packaging.")
 
 source_files = []
-for filename in ["project.godot", "main.tscn", "export_presets.cfg", "README.md", "README.en.md", "SECURITY.md", "SECURITY.zh-CN.md", ".gitignore"]:
+for filename in ["project.godot", "main.tscn", "export_presets.cfg", "README.md", "README.en.md", "SECURITY.md", "SECURITY.zh-CN.md", ".gitignore", ".gitattributes"]:
     source_files.append((ROOT / filename, Path(filename)))
 for folder in ["scripts", "data", "tests", "docs"]:
     for path in (ROOT / folder).rglob("*"):
